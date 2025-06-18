@@ -1,4 +1,4 @@
- / Seleciona o botão com ID 'modo-escuro' e adiciona um listener de clique
+ // Seleciona o botão com ID 'modo-escuro' e adiciona um listener de clique
 document.getElementById('modo-escuro').addEventListener('click', function() {
   // Alterna a classe 'dark-mode' no elemento body do documento:
   // - Se a classe existir, será removida
